@@ -13,3 +13,5 @@ How to Run:
 - Clone the repository in your pc.
 - Go to unity hub and select add project from disk inside the open project option
 - After doing this you will have the developers version of the game. You can either build the game and play or you can play by clicking the triangular play button at the top centre of the screen.
+
+PS-Can you beat this game in less than 200 seconds? :)
